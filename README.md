@@ -6,7 +6,7 @@ your own AI agents on your Mac with Claude Code.
 ## Download
 
 [Download Story for Mac](https://github.com/elkadeo/story-for-mac/releases/latest/download/Story.dmg)
-(Apple silicon, macOS 13 or later).
+(for Macs with Apple silicon).
 
 Open the file, and drag Story to your Applications folder. Story for Mac updates itself: when a
 new version is ready, it installs when you quit Story.
